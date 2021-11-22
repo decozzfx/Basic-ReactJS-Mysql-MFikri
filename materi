@@ -1,0 +1,11 @@
+npx create-react-app <project_name> -> untuk membuat app react pertama
+npm start                           -> untuk memulai/menjalankan app via dom
+dynamic value                       -> untuk membuat value/nilai suatu variable/component menjadi dinamis memnggunakan fungsi
+components                          -> dapat menginport components dari luar induk, contoh : <header/>
+click events                        -> memberikan perintah jika tombol dieksekusi/diclick
+useState Hook                       -> membuat suatu variable menjadi dinamis contoh : tombol change name/title
+looping lists                       -> perulangan dengan map untuk menjabarkan array / object data
+props                               -> untuk mengirimkan component anak ke component induk dengan membawa variable/fungsi didalamnya
+useEffect Hook                      -> mengeksekusi suatu perintah jika halaman dirender/direload
+react router                        -> membuat app seperti multiple application namun tidak merequest ke server namun hanya merender component di sisi client dengan spesifik url
+Bulma CSS                           -> CSS framework seperti bootstrap
